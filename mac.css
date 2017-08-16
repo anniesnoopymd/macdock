@@ -1,0 +1,20 @@
+#mouse_are{
+  position: absolute;
+  z-index: 99;
+}
+ul,li{
+  list-style: none;
+}
+#mac_button{
+  margin: 0 auto;
+  display: table;
+}
+img{
+  width: 50px;
+  height: 50px;
+}
+#mac_button li{
+  margin-top: 300px;
+  padding: 5px;
+  display: inline-block;
+}
